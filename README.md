@@ -2,7 +2,7 @@
 
 *Name:* Sanga Akshay  
 *Company:* CODETECH IT SOLUTIONS  
-*ID:*  :CT08DS2166 
+*ID:* CT08DS2166 
 *Domain:* VLSI  
 *Duration:* August 10th to October 10th, 2024
 
